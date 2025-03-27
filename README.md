@@ -1,3 +1,3 @@
-Tailwind CSS Landing Page (Optimetrics)
+# Tailwind CSS Landing Page (Optimetrics)
 
 Read Me. Will add soon
